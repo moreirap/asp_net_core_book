@@ -271,4 +271,7 @@ Viewport
 Window
 
 # VS code
-.vscode
+.vscode/
+
+# Wercker
+.wercker/
